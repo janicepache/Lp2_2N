@@ -1,0 +1,31 @@
+room 1 south 6 TRAP east 2
+room 2 east 3 west 1
+room 3 south 8 east 4 west 2
+room 4 south 7 east 5 west 3
+room 5 south 9 west 4
+room 6 north 1 south 10 west EXIT TRAP
+room 7 north 4 east 9 west 8
+room 8 north 3 south 12 east 7 up 24 
+room 9 north 5 TRAP south 13 west 7
+room 10 north 6 south 14 east 11
+room 11 east 12 west 10 up 22
+room 12 north 8 south 15 west 11
+room 13 north 9 south 17
+room 14 north 10 south EXIT TRAP
+room 15 north 12 east 16 west EXIT TRAP up 25 TRAP
+room 16 east 17 west 15
+room 17 north 13 south EXIT west 16 TRAP
+room 18 north 24 south 25 TRAP east 19 west 22 up 28 TRAP
+room 19 south 26 east 20 west 18
+room 20 west 19
+room 21 east 22
+room 22 north 23 TRAP east 18 west 21 down 11 TRAP
+room 23 south 22 east 24
+room 24 south 18 west 23 TRAP down 8
+room 25 north 18 east 26 down 15
+room 26 north 19 west 25
+room 27 east 28
+room 28 north 30 TRAP south 31 TRAP east 29 west 27 down 18
+room 29 west  28
+room 30 south 28
+room 31 north 28 TRAP
